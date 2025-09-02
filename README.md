@@ -1,6 +1,8 @@
-# Laravel Hotel - Admin Dashboard
+# Laravel Hotel
 
-Laravel Hotel is a modern, web application built with Laravel 12, featuring a stunning admin dashboard UI and enhanced with Reverb (Laravel WebSockets-compatible) for real-time notification experiences.
+Laravel Hotel is an open-source web application built with laravel 8.0, enchanced with laravel reverb features to have realtime notification experience.
+
+Its now compatible with laravel 12
 
 ## 🖼️ Screenshots
 
