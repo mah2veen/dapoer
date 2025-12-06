@@ -1,16 +1,16 @@
-# Laravel Hotel
+# DAPOER RESERVASI
 
-Laravel Hotel is an open-source web application built with laravel 8.0, enchanced with laravel reverb features to have realtime notification experience.
+DAPOER RESERVASI is an open-source web application built with laravel 8.0, enchanced with laravel reverb features to have realtime notification experience.
 
 Its now compatible with laravel 12
 
 ## 🖼️ Screenshots
 
-<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/f14318c7-f8ee-4fa0-a2be-8e3dac36cf47" />
+<img width="1919" height="943" alt="image" src="" />
 
-<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/ffbb1092-49dd-4e71-bb67-049f17e4d40e" />
+<img width="1919" height="943" alt="image" src="" />
 
-<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/7499816a-0a24-4866-9f15-70d0b335aa85" />
+<img width="1919" height="940" alt="image" src="" />
 
 
 
@@ -41,8 +41,8 @@ EXIT;
 1. **Clone & Configure**
 
 ```bash
-git clone https://github.com/WailanTirajoh/Laravel-Hotel.git
-cd Laravel-Hotel
+git clone https://github.com
+cd 
 cp .env.example .env
 ```
 
@@ -198,7 +198,6 @@ Access the admin dashboard with seeded demo accounts:
 5. **Check-in/Check-out**: Status tracking throughout stay
 
 ### Payment System
-
 - Down payment calculation (15% minimum)
 - Balance tracking and payment completion
 - invoice generation
@@ -210,10 +209,6 @@ Access the admin dashboard with seeded demo accounts:
 - Email notifications for important events
 - Push notifications for mobile devices
 - Activity logging for audit trails
-
-## 🗄️ Database Schema
-
-![ERD](https://github.com/WailanTirajoh/Laravel-Hotel/blob/main/erd.PNG?raw=true)
 
 ### Key Relationships
 
@@ -264,17 +259,16 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 ## 👨‍💻 Developer
 
-**Wailan Tirajoh**
+**MV**
 
-- GitHub: [@WailanTirajoh](https://github.com/WailanTirajoh)
-- Instagram: [@tirajoh](https://www.instagram.com/tirajoh/)
-- Facebook: [tirajohw](https://www.facebook.com/tirajohw/)
+- GitHub: [@WailanTirajoh](https://github.com/mah2veen)
+- Instagram: [@tirajoh](https://www.instagram.com/ahmds.17/)
+- Facebook: [tirajohw](https://www.facebook.com/ahmds.17/)
 
 ---
 
 ### 🎯 Perfect for
 
-- Hotel and hospitality management
 - Learning Laravel development
 - dashboard implementations
 - Real-time web application examples
