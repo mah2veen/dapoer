@@ -15,7 +15,7 @@
     <!-- Vite Assets -->
     @vite('resources/sass/app.scss')
 
-    <title>@yield('title', 'Hotel Management System')</title>
+    <title>@yield('title', 'Restaurant Management System')</title>
 
     <!-- Auth Specific Styles -->
     <style>
