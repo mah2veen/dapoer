@@ -32,7 +32,7 @@ mysql -u root -p
 ```
 
 ```sql
-CREATE DATABASE hotel_app;
+CREATE DATABASE db_dapoer;
 EXIT;
 ```
 
