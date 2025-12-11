@@ -261,9 +261,9 @@ This project is open-sourced software licensed under the [MIT license](https://o
 
 **MV**
 
-- GitHub: [@WailanTirajoh](https://github.com/mah2veen)
-- Instagram: [@tirajoh](https://www.instagram.com/ahmds.17/)
-- Facebook: [tirajohw](https://www.facebook.com/ahmds.17/)
+- GitHub: [@mv](https://github.com/mah2veen)
+- Instagram: [@mv](https://www.instagram.com/ahmds.17/)
+- Facebook: [mv](https://www.facebook.com/ahmds.17/)
 
 ---
 
